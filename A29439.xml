@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief description of the province of Carolina on the coasts of Floreda, and more perticularly of a new-plantation begun by the English at Cape-Feare, on that river now by them called Charles-River, the 29th of May, 1664 wherein is set forth the healthfulness of the air, the fertility of the Earth and waters, and the great pleasure and profit will accrue to those that shall go thither to enjoy the same : also, directions and advice to such as shall go thither whether on their own accompts, or to serve under another, together with a most accurate map of the whole province.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29439</idno>
+            <idno type="STC">Wing B4571</idno>
+            <idno type="STC">ESTC R6714</idno>
+            <idno type="EEBO-CITATION">11612799</idno>
+            <idno type="OCLC">ocm 11612799</idno>
+            <idno type="VID">47906</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29439)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47906)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 484:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief description of the province of Carolina on the coasts of Floreda, and more perticularly of a new-plantation begun by the English at Cape-Feare, on that river now by them called Charles-River, the 29th of May, 1664 wherein is set forth the healthfulness of the air, the fertility of the Earth and waters, and the great pleasure and profit will accrue to those that shall go thither to enjoy the same : also, directions and advice to such as shall go thither whether on their own accompts, or to serve under another, together with a most accurate map of the whole province.</title>
+               </titleStmt>
+               <extent>[2], 10 p. : folded map ; 23 cm. </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Horne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>North Carolina --  Description and travel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47906:1"/>
+            <!-- PDF PAGE 53 -->
+            <p>A Brief DESCRIPTION OF The Province OF CAROLINA <hi>On the</hi> COASTS <hi>of</hi> FLOREDA. AND More perticularly of a <hi>New-Plantation</hi> begun by the <hi>ENGLISH</hi> at <hi>Cape-Feare,</hi> on that River now by them called <hi>Charles-River,</hi> the 29<hi rend="sup">th</hi> of <hi>May.</hi> 1664.</p>
+            <p>
+               <hi>Wherein is ſet forth</hi> The <hi>Healthfulneſs</hi> of the <hi>Air;</hi> the <hi>Fertility</hi> of the <hi>Earth,</hi> and <hi>Waters;</hi> and the great <hi>Pleaſure</hi> and <hi>Profit</hi> will accrue to thoſe that ſhall go thither to enjoy the ſame.</p>
+            <p>
+               <hi>Alſo,</hi> Directions and advice to ſuch as ſhall go thither whether on their own accompts, or to ſerve under another.</p>
+            <p>
+               <hi>Together with</hi> A moſt accurate MAP of the whole <hi>PROVINCE.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Horne</hi> in the firſt Court of <hi>Greſham-Colledge</hi> neer <hi>Biſhopſgate-ſtreet,</hi> 1666.</p>
+         </div>
+      </front>
+      <body>
+         <div type="map">
+            <pb facs="tcp:47906:2"/>
+            <!-- PDF PAGE 54 -->
+            <p>
+               <figure>
+                  <head>CAROLINA</head>
+                  <p>CAROLINA deſcribed</p>
+                  <figDesc>map of the Carolina coast</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="text">
+            <pb n="1" facs="tcp:47906:2"/>
+            <!-- PDF PAGE 54 -->
+            <head>A Brief DESCRIPTION OF <hi>The</hi> PROVINCE of <hi>CAROLINA,</hi> &amp;c.</head>
+            <p>
+               <hi>CAROLINA</hi> is a fair and ſpacious Province on the Continent of <hi>America:</hi> ſo called in honour of His Sacred Majeſty that now is, <hi>Charles the Second,</hi> whom God preſerve; and His Majeſty hath been pleas'd to grant the ſame to certain Honourable Perſons, who in order to the ſpeedy planting of the ſame, have granted di<g ref="char:EOLhyphen"/>vers privileges and advantages to ſuch as ſhall tranſport themſelves and Servants in convenient time; This Pro<g ref="char:EOLhyphen"/>vince lying ſo neer <hi>Virginia,</hi> and yet more Southward, enjoys the fertility and advantages thereof; and yet is ſo far diſtant, as to be freed from the inconſtancy of the Weather, which is a great cauſe of the unhealthfulneſs thereof; alſo, being in the latitude of the <hi>Barmoodoes</hi> may expect the like healthfulneſs which it hath hitherto en<g ref="char:EOLhyphen"/>joy'd, and doubtleſs there is no Plantation that ever the <hi>Engliſh</hi> went upon, in all reſpects ſo good as this: for though <hi>Barmoodoes</hi> be wonderful healthy and fruitful, yet is it but a Priſon to the Inhabitants, who are much
+<pb n="2" facs="tcp:47906:3"/>
+               <!-- PDF PAGE 55 -->ſtreightned for want of room, and therefore many of them are come to <hi>Carolina,</hi> and more intend to follow. There is ſeated in this Province two Colonies already, one on the River <hi>Roanoak</hi> (now called <hi>Albemarle</hi> River) and borders on <hi>Virginia;</hi> the Other at <hi>Cape Feare,</hi> two Degrees more Southerly; of which follows a more perti<g ref="char:EOLhyphen"/>cular Deſcription.</p>
+            <p>This Province of <hi>Carolina</hi> is ſituate on the main Con<g ref="char:EOLhyphen"/>tinent of <hi>America,</hi> between the degrees of 30. and 36. and hath on the North the South part of <hi>Virginia;</hi> on the South is bounded by the 30 degree of Latitude not yet fully diſcovered; on the Eaſt is <hi>Mare Atlanticum,</hi> part of the great Ocean; and on the Weſt the wealthy South Sea is its Confines.</p>
+            <div type="part">
+               <head>The perticular Deſcription of <hi>Cape-Feare.</hi>
+               </head>
+               <p>IN the midſt of this fertile Province, in the Latitude of 34 degrees, there is a Colony of <hi>Engliſh</hi> ſeated, who Landed there the 29 of <hi>May, Anno</hi> 1664. and are in all about 800 perſons, who have overcome all the diffi<g ref="char:EOLhyphen"/>culties that attend the firſt attempts, and have cleered the way for thoſe that come after, who will find good houſes to be in whilſt their own are in building; good forts to ſecure them from their enemies; and many things brought from other parts there increaſing to their no ſmall advantage. The entrance into the River, now called <hi>Cape-Feare</hi> River, the ſituation of the Cape, and trending of the Land, is plainly laid down to the eye in the Map annexed. The River is barred at the entrance,
+<pb n="3" facs="tcp:47906:3"/>
+                  <!-- PDF PAGE 55 -->but there is a Channel cloſe abord the Cape that will con<g ref="char:EOLhyphen"/>vey in ſafety a ſhip of 300 Tons, and as ſoon as a ſhip is over the Bar, the River is 5 or 6 fathom deep for a 100 miles from the Sea; this Bar is a great ſecurity to the Colony againſt a forreign Invaſion, the channel be<g ref="char:EOLhyphen"/>ing hard to find by thoſe that have not experience of it, and yet ſafe enough to thoſe that know it.</p>
+            </div>
+            <div type="part">
+               <head>The Earth, Water, and Air.</head>
+               <p>THe Land is of divers ſorts as in all Countryes of the world, that which lyes neer the Sea, is ſandy and barren, but beareth many tall Trees, which make good timber for ſeveral uſes; and this ſandy ground is by ex<g ref="char:EOLhyphen"/>perienced men thought to be one cauſe of the healthful<g ref="char:EOLhyphen"/>neſs of the place: but up the River about 20 or 30 mile, where they have made a Town, called <hi>Charles</hi>-Town, there is plenty of as rich ground as any in the world; It is a blackiſh mold upon a red ſand, and under that a clay, but in ſome places is rich ground of a grayer colour, they have made Brick of the Clay, which proves very good; and Lime they have alſo for building. The whole Coun<g ref="char:EOLhyphen"/>try conſiſts of ſtately Woods, Groves, Marſhes and Meadows; it abounds with variety of as brave Okes as Eye can behold, great Bodies tall and ſtreight from 60 to 80 foot, before there be any Boughs, which with the little under-wood makes the Woods very commodious to travel in, either on Horſe-back or a foot. In the barren ſandy ground grow moſt ſtately <hi>Pines,</hi> white and red <hi>Cedars, Aſh, Birch, Holly, Cheſnut,</hi> and <hi>Walnut-trees</hi>
+                  <pb n="4" facs="tcp:47906:4"/>
+                  <!-- PDF PAGE 56 -->of great growth and very plentiful: There are many ſorts of fruit Trees, as <hi>Vines, Medlaas, Peach, Wild Cherries, Mulbury-Trees,</hi> and the <hi>Silk-worm</hi> breed<g ref="char:EOLhyphen"/>ing naturally on them, with many other Trees for Fruit and for Building, for Perfume and for Me<g ref="char:EOLhyphen"/>dicine, for which the <hi>Engliſh</hi> have no name; alſo ſe<g ref="char:EOLhyphen"/>veral ſorts of Dying Stuff, which may prove of great advantage; The Woods are ſtored with Deer and Wild Turkeys, of a great magnitude, weighing many times above 50 <hi>l.</hi> a piece, and of a more pleaſant taſt than in <hi>England,</hi> being in their proper climate; other ſorts of Beaſts in the Woods that are good for food; and alſo Fowls, whoſe names are not known to them. This is what they found naturally upon the place; but they have brought with them moſt ſorts of ſeeds and roots of the <hi>Barbadoes</hi> which thrive very well, and they have <hi>Potatoes,</hi> and the other Roots and Herbs of <hi>Barbadoes</hi> growing and thriving with them; as alſo from <hi>Virginia, Barmoodoes,</hi> and <hi>New-England,</hi> what they could afford: They have <hi>Indico, Tobacco</hi> very good, and <hi>Cotton-wool; Lime-trees, Orange, Lemon,</hi> and other Fruit-Trees they brought thrive exceed<g ref="char:EOLhyphen"/>ingly: They have two Crops of <hi>Indian</hi>-Corn in one year, and great increaſe every Crop; <hi>Apples, Pears,</hi> and other <hi>Engliſh</hi> fruit, grow there out of the plan<g ref="char:EOLhyphen"/>ted Kernels: The Marſhes and Meadows are very large from 1500 to 3000 Acres, and upwards, and are excellent food for Cattle, and will bear any Grain be<g ref="char:EOLhyphen"/>ing prepared; ſome Cattle both great and ſmall, which live well all the Winter, and keep their fat without Fodder; Hogs find ſo much Maſt and other Food
+<pb n="5" facs="tcp:47906:4"/>
+                  <!-- PDF PAGE 56 -->in the Woods, that they want no other care than a Swine-herd to keep them from running wild. The Meadows are very proper for <hi>Rice, Rape-ſeed, Lin<g ref="char:EOLhyphen"/>ſeed,</hi> &amp;c. and may many of them be made to over<g ref="char:EOLhyphen"/>flow at pleaſure with a ſmall charge. Here are as brave Rivers as any in the World, ſtored with great abundance of <hi>Sturgeon, Salmon, Baſſe, Plaice, Trout,</hi> and <hi>Lpaniſh Mackrill;</hi> with many other moſt pleaſant ſorts of Fiſh, both flat and round, for which the <hi>Engliſh</hi> Tongue hath no name. Alſo in the little Win<g ref="char:EOLhyphen"/>ter they have abundance of <hi>Wild Geeſe, Ducks, Teals, Widgeons,</hi> and many other pleaſant fowl; and (as is ſaid before) the Rivers are very deep and naviga<g ref="char:EOLhyphen"/>ble above 100 miles up; alſo there are wholſome Springs and Rivulets. Laſt of all, the Air comes to be conſidered, which is not the leaſt conſiderable to the well being of a Plantation, for without a whol<g ref="char:EOLhyphen"/>ſom Air all other conſiderations avail nothing; and this is it which makes this Place ſo deſireable, being ſeated in the moſt temperate Clime, where the neigh<g ref="char:EOLhyphen"/>bour-hood of the glorious Light of Heaven brings many advantages, and his convenient diſtance ſecures them from the Inconvenience of his ſcortching beams. The Summer is not too hot, and the Winter is very ſhort and moderate, beſt agreeing with <hi>Engliſh</hi> Con<g ref="char:EOLhyphen"/>ſtitutions. <hi>Cape-Feare</hi> lyes about 34 degrees from the Equator, the Nights nor Days are ſo long when at longeſt as in <hi>England,</hi> by ſomewhat above two hours. A remarkable Inſtance of the Healthfulneſs of the Place, is, That at the firſt ſetting down of the Colo<g ref="char:EOLhyphen"/>ny, when they had no houſe nor harbour, but wrought
+<pb n="6" facs="tcp:47906:5"/>
+                  <!-- PDF PAGE 57 -->hard all day, in preparing Wood to build, and lay in the open Air all night, yet not one of them was ill, but continued well all the time; they Sympa<g ref="char:EOLhyphen"/>thize moſt with the <hi>Barmoodoes,</hi> which is the health<g ref="char:EOLhyphen"/>fulleſt ſpot in the World, and yet the laſt year they had a Feaver and Ague that troubled them much, which alſo was at <hi>Cape-Feare,</hi> but was not dangerous to any that took care of themſelves, and had things convenient. This place had been aimed at many years ſince. Sir <hi>Walter Rawleigh</hi> had a deſign to have plan<g ref="char:EOLhyphen"/>ted it. Thoſe of the <hi>Barmoodoes,</hi> whoſe Habitations are too ſtreight for them, have with longing deſire waited for the diſcovery of this place that is neer their own Latitude, where they may expect the ſame healthfulneſs they do now enjoy, which is now per<g ref="char:EOLhyphen"/>fected as to the firſt Settlement, and wants nothing but a diligent proſecution of ſo noble an Enterprize.</p>
+               <p>If therefore any induſtrious and ingenious perſons ſhall be willing to pertake of the Felicites of this Country, let them imbrace the firſt opportunity, that they may obtain the greater advantages.</p>
+            </div>
+            <div type="part">
+               <head>The chief of the Privileges are as follows.</head>
+               <p>Firſt, There is full and free Liberty of Conſcience granted to all, ſo that no man is to be moleſted or called in queſtion for matters of Religious Concern; but every one to be obedient to the Civil Govern<g ref="char:EOLhyphen"/>ment, worſhipping God after their own way.</p>
+               <p>
+                  <pb n="7" facs="tcp:47906:5"/>
+                  <!-- PDF PAGE 57 -->
+Secondly, There is freedom from Cuſtom for all <hi>Wine, Silk, Raiſins, Currance, Oyl, Olives,</hi> and <hi>Al<g ref="char:EOLhyphen"/>monds,</hi> that ſhall be raiſed in the Province for 7. years, after 4 Ton of any of thoſe commodities ſhall be imported in one Bottom.</p>
+               <p>Thirdly, Every Free-man and Free-woman that tranſport themſelves and Servants by the 25 of <hi>March</hi> next, being 1667. ſhall have for Himſelf, Wife, Children, and Men-ſervants, for each 100 Acres of Land for him and his Heirs for ever, and for every Woman-ſervant and Slave 50 Acres, paying at moſt ½<hi>d. per acre, per annum,</hi> in lieu of all demands, to the Lords Proprietors: Provided always, That every Man be armed with a good Muſquet full bore, 10 <hi>l.</hi> Powder, and 20 <hi>l.</hi> of Bullet, and ſix Months Pro<g ref="char:EOLhyphen"/>viſion for all, to ſerve them whilſt they raiſe Provi<g ref="char:EOLhyphen"/>ſion in that Countrey.</p>
+               <p>Fourthly, Every Man-Servant at the expiration of their time, is to have of the Country a 100 Acres of Land to him and his heirs for ever, paying only ½<hi>d. per Acre, per annum,</hi> and the Women 50. Acres of Land on the ſame conditions; their Maſters alſo are to al<g ref="char:EOLhyphen"/>low them two Suits of Apparrel and Tools ſuch as he is beſt able to work with, according to the Cuſtom of the Countrey.</p>
+               <p>Fifthly, They are to have a Governour and Coun<g ref="char:EOLhyphen"/>cil appointed from among themſelves, to ſee the Laws of the Aſſembly put in due execution; but the Go<g ref="char:EOLhyphen"/>vernour
+<pb n="8" facs="tcp:47906:6"/>
+                  <!-- PDF PAGE 58 -->is to rule but 3 years, and then learn to obey; alſo he hath no power to lay any Tax, or make or abrogate any Law, without the Conſent of the Colony in their Aſſembly.</p>
+               <p>Sixthly, They are to chooſe annually from among themſelves, a certain Number of Men, according to their diviſions, which conſtitute the General Aſſem<g ref="char:EOLhyphen"/>bly with the Governour and his Council, and have the ſole power of Making Laws, and Laying Taxes for the common good when need ſhall require.</p>
+               <p>Theſe are the chief and Fundamental Privileges, but the Right Honourable Lords Proprietors have pro<g ref="char:EOLhyphen"/>miſed (and it is their Intereſt ſo to do) to be ready to grant what other Privileges may be found advan<g ref="char:EOLhyphen"/>tageous for the good, of the Colony.</p>
+               <p>Is there therefore any younger Brother who is born of Gentile blood, and whoſe Spirit is elevated above the common ſort, and yet the hard uſage of our Country hath not allowed ſuitable fortune; he will not ſurely be afraid to leave his Native Soil to ad<g ref="char:EOLhyphen"/>vance his Fortunes equal to his Blood and Spirit, and ſo he will avoid thoſe unlawful ways too many of our young Gentlemen take to maintain themſelves ac<g ref="char:EOLhyphen"/>cording to their high education, having but ſmall E<g ref="char:EOLhyphen"/>ſtates; here, with a few Servants and a ſmall Stock a great Eſtate may be raiſed, although his Birth have not entituled him to any of the Land of his Ance<g ref="char:EOLhyphen"/>ſtors, yet his Induſtry may ſupply him ſo, as to make him the head of as famous a family.</p>
+               <p>
+                  <pb n="9" facs="tcp:47906:6"/>
+                  <!-- PDF PAGE 58 -->
+Such as are here tormented with much care how to get worth to gain a Livelyhood, or that with their labour can hardly get a comfortable ſubſiſtance, ſhall do well to go to this place, where any man what-ever, that is but willing to take moderate pains, may be aſſured of a moſt comfortable ſubſiſtance, and be in a way to raiſe his fortunes far beyond what he could ever hope for in <hi>England.</hi> Let no man be troubled at the thoughts of being a Servant for 4 or 5 year, for I can aſſure you, that many men give mony with their children to ſerve 7 years, to take more pains and fare nothing ſo well as the Servants in this Plantation will do. Then it is to be conſide<g ref="char:EOLhyphen"/>red, that ſo ſoon as he is out of his time, he hath Land, and Tools, and Clothes given him, and is in a way of advancement. Therefore all Artificers, as <hi>Carpenters, Wheel-rights, Joyners, Coopers, Bricklayers, Smiths,</hi> or diligent Husbandmen and Labourers, that are willing to advance their fortunes, and live in a moſt pleaſant healthful and fruitful Country, where Artificers are of high eſteem, and uſed with all Ci<g ref="char:EOLhyphen"/>vility and Courteſie imaginable, may take notice, that</p>
+               <p>There is an opportunity offers now by the <hi>Virginia</hi> Fleet, from whence <hi>Cape Feare</hi> is but 3 or 4 days ſail, and then a ſmall Stock carried to <hi>Virginia</hi> will purchaſe proviſions at a far eaſier rate than to carry them from hence; alſo the freight of the ſaid Pro<g ref="char:EOLhyphen"/>viſions will be ſaved, and be more freſh, and there wanteth not conveyance from <hi>Virginia</hi> thither.</p>
+               <p>If any Maid or ſingle Woman have a deſire to go over, they will think themſelves in the Golden Age,
+<pb n="10" facs="tcp:47906:7"/>
+                  <!-- PDF PAGE 59 -->when Men paid a Dowry for their Wives; for if they be but Civil, and under 50 years of Age, ſome honeſt Man or other, will purchaſe them for their Wives.</p>
+               <p>Thoſe that deſire further advice, or Servants that would be entertained, let them repair to Mr. <hi>Matthew Wilkinſon, Ironmonger,</hi> at the Sign of the <hi>Three Fea<g ref="char:EOLhyphen"/>thers</hi> in <hi>Biſhopſgate-ſtreet,</hi> where they may be inform<g ref="char:EOLhyphen"/>ed when the Ships will be ready, and what they muſt carry with them.</p>
+               <p>Thus much was convenient to be written at pre<g ref="char:EOLhyphen"/>ſent, but a more ample Relation is intended to be publiſhed in due time.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:47906:7"/>
+               <!-- PDF PAGE 59 -->
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
